@@ -14,6 +14,7 @@
 * Users can create account through application. 
 * Only Users can add My favorites and submit cooments(for Demo: username-admin , password-passwprd)
 * Interact with the campsites favorites and  utilizing the comments feature. 
+* For testing: username- admin, password- password
 
 
 <div align="center">Welcome to Nucampsite. </div>
@@ -86,6 +87,6 @@ https://github.com/JosephThawn/nucampsiteServer.git
 
 
 ## Contact
-Created by [Pau Thawn](www.linkedin.com/in/pau-thawn) 
+Created by [Pau Thawn](https://www.linkedin.com/in/pau-thawn) 
 Feel free to contact me for any questions! 
 
