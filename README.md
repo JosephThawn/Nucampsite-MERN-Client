@@ -40,9 +40,9 @@ Please feel free to give some feedbacks and advices.
 ## Technologies
 
 ### Frontend Development 
-* JavaScript (ES6)
-* HTML5
-* CSS3
+* JavaScript 
+* HTML
+* CSS
 * bootstrap- 4.5.2
 * bootstrap-social- version 5.1.1
 * font-awesome- version 4.7.0
